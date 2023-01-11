@@ -3,7 +3,7 @@
 function Main() {
   return (
     <div className="App">
-      <h1>Main component</h1>
+      <h1>This is the Home Page</h1>
     </div>
   );
 }
